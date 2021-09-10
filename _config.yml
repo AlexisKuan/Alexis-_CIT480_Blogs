@@ -23,7 +23,7 @@ email: alexis.kuan.903@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, welcome to my blog page for CIT 480, Fall Semester 2021.
 baseurl: "/Alexis_CIT480_Blogs" # the subpath of your site, e.g. /blog
-url: "https://alexiskuan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexiskuan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  AlexisKuan
 
